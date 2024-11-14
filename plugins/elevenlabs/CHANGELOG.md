@@ -1,5 +1,14 @@
 # @livekit/agents-plugin-elevenlabs
 
+## 0.4.4
+
+### Patch Changes
+
+- add ChunkedStream, openai.TTS - [#155](https://github.com/livekit/agents-js/pull/155) ([@nbsp](https://github.com/nbsp))
+
+- Updated dependencies [[`95ac1798daf846a14a4fb8b240412a7f66a897e6`](https://github.com/livekit/agents-js/commit/95ac1798daf846a14a4fb8b240412a7f66a897e6)]:
+  - @livekit/agents@0.4.4
+
 ## 0.4.3
 
 ### Patch Changes

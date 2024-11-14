@@ -1,5 +1,18 @@
 # @livekit/agents-plugin-openai
 
+## 0.5.0
+
+### Minor Changes
+
+- add OpenAI/Groq STT - [#153](https://github.com/livekit/agents-js/pull/153) ([@nbsp](https://github.com/nbsp))
+
+### Patch Changes
+
+- add ChunkedStream, openai.TTS - [#155](https://github.com/livekit/agents-js/pull/155) ([@nbsp](https://github.com/nbsp))
+
+- Updated dependencies [[`95ac1798daf846a14a4fb8b240412a7f66a897e6`](https://github.com/livekit/agents-js/commit/95ac1798daf846a14a4fb8b240412a7f66a897e6)]:
+  - @livekit/agents@0.4.4
+
 ## 0.4.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @livekit/agents
 
+## 0.4.4
+
+### Patch Changes
+
+- add ChunkedStream, openai.TTS - [#155](https://github.com/livekit/agents-js/pull/155) ([@nbsp](https://github.com/nbsp))
+
 ## 0.4.3
 
 ## 0.4.2
