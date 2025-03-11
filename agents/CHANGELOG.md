@@ -1,5 +1,11 @@
 # @livekit/agents
 
+## 0.7.1
+
+### Patch Changes
+
+- fix(multimodal): ensure audio samples is never smaller than 0 - [#319](https://github.com/livekit/agents-js/pull/319) ([@lukasIO](https://github.com/lukasIO))
+
 ## 0.7.0
 
 ### Minor Changes
